@@ -1,0 +1,215 @@
+---------------
+Hi there. Thanks for opening the opportunity which is pretty appealing for the full stack developers who have relevant experiences.
+
+I am very excited to see this one as I strongly believe this could be the chance to dedicate myself heavily to reuse my practical experience.
+
+As for myself, I have been working as a senior fullstack software engineer for more than 6 years and have helped many startups to build web portals for their businesses.
+
+
+
+What I think that is most relevant to your business is the one that i have developed is the smilemarketing site.
+For this project, I have create a portal where agencies can expose their services and manage & communicate with their clients effectively.
+
+In technical aspects, I have used Node/Express, React,Typescript, AWS microservices, Stripe, Gitlab and Oauth2 was used for authentication stuff.
+
+For the long-term goal, it is pretty important to focus on scalability and that's why we have leveraged AWS microservice softwares.
+
+
+
+So this hands-on experience makes me stand out and gives me an edge over the others when it comes to micro-service-based architecture.
+
+I strongly believe that I could be one of the promising and productive candidate for your specific project as I have all qualities that could be the great asset for the team and the business.
+
+Look forward to hearing from you.
+
+Best regards.
+---------
+Hi there!
+
+I have gone over the description and I am reaching out to you with a great interest !
+
+As a very experienced full-stack engineer, I have participated in many remote teams and owned valuable experience and talents that can handle any task related to Vue.js and Laravel as a solo as well as a team player.
+
+I have ever handled production websites so I know ropes of the process about how to develop new features, how to deploy it to staging/testing repo & website, how to test it and finally how to deploy it to live production website which is also called as CI/CD.
+ 
+Have been heavily involved in Scrum.Agile methodology so this will give me an edge over the others when I need to play as a team member.
+
+I have rich experience with my major fields - about 4 years of experience with Vue.js & Laravel.js and 1 year with React.js.
+
+have ever used Headless CMS, UI frameworks (AntD, Material UI, Bootstrap,TailWindCSS and many more), styled components, RESTful API/Apollo Graphql.
+
+I am a veteran of Git, AWS and Firebase.
+
+And have pratical experience in unit testing and have optimized performance and SEO of several websites.
+
+As I have got good communication skills, I truely feel that I am the perfect candidate that can add value to the team.
+
+Look forward to your response.
+
+Regards.
+-----------------
+Hi, how are you doing ?
+
+Here is a professional and extremely experienced React.js developer.
+
+I have 5 years of practical experience in React.js and have made a lot of dashboard applications.
+
+Have built hundreds of figma in to reusable React components which are responsive and compatible in various kinds of devices and browsers.
+
+As an all-rounded person for everything React, I would like to talk with you about your dashboard application.
+
+Look forward to hearing from you.
+-----------------
+Hi,
+
+Thanks for opening opportunity for the front-end engineers.
+
+I am very excited to submit my application to the project as an experienced React.JS/Next.js developer
+
+As you can see from my profile, I have made a lot of front-end applications using React.JS, Next, Material UI, AntD, Axios etc and these are what I am especially strong at !
+
+Also I have solid understanding Node.js and various kinds of database tech and api such as graphQL api integrations using Apollo so I think I am good fit for this project.
+
+From my rich hands-on experience, I am so productive and I can communicate with the team members clearly and effectively.
+
+I have recently finished the work here and I would like to dedicate full time for the project
+
+Look forward to hearing from you
+-----------
+
+Hi, Hope you are doing well ,
+
+I am a veteran of front-end application development who is working in this field for more than 6 years.
+
+I have got rich practical experience as well as great eyes for the UX/UI which can maximize the value of business by increasing conversion rating dramatically.
+
+I have helped several startups to make their journey quite successful even from the very first.
+
+That's why all of my clients consider me over the others.
+
+I would like to work with you to leverage my professional deliverables for the long-term goal.
+
+Look forward to hearing from you.
+-------------------------
+Hi, how are you doing ?
+I am very excited to see the opportunity where I can dedicate my valuable experience heavily .
+
+My technical skills include
+1) frontend web application development using Reactjs/ Vue.js/ Java Spring Boot/ Gatsby / NuxtJS with AWS / Firebase, Apollo GraphQL, Figma, TailWindCSS
+2) back-end web application development using Nodejs / Nestjs / Express / Laravel
+3) Chrome extension development using VueJS and ReactJS
+
+As a senior software engineer, I am pretty good at writing clean code that is maintainable and scalable which is pretty good for the startups !
+
+So my deliverables are top-notch and the code I write is super clean and maintainable.
+
+Also I have good communication skills so I strongly believe that I would be the great asset for the team .
+
+I look forward to working with you for the chance to reuse my valuable experience.
+
+Look forward to hearing from you.
+Best regards
+
+-----------------
+Hi there,
+I have read the job description and I am very interested in your project.
+I am a senior full-stack web developer with extensive experience in Vue and Laravel.
+I found that you are in need of Vue.js and Laravel developer who is talented with them.
+I know Vue.js  best practices, Vuex, vue3/composition API, SEO, javascript and typescript
+Jira, sprinting, daily communication, github, Docker are the experiences I have gained over the last 6 years of web development in teams
+I can be a good match for this project.
+Able to start immediately and full time available.
+
+Looking forward to hearing from you.
+Thank you.
+-------
+
+Hi there
+Thanks for opening an opportunity for full-stack developers.
+I am very interested in and would like to contribute as a senior PHP developer
+
+I have got proven record of PHP development history and have ever converted Figma designs into reusable components hundreds of times.
+So I am pretty productive and deliverables are always pixel-perfect match with the design while being fully responsive in all major devices with great user experience.
+I like to learn new version of technology and I am good in this field, so I am sure that I can change your version and this can be good result.
+
+As a front-end developer, I have experience with Scrum/Agile methodology and I am familiar with Trello, Jira, Bitbucket and Github
+Hope this is going to be a great start for the nice long-term relationship with you.
+
+Regards.
+
+----vue--------
+
+Hi,
+Thanks for sharing your concern.
+
+I have read the requirements and I am reaching out to you with a great interest !
+As far as I understood, to be a good candidate for this role, it is important to be familiar with full-stack development and to have got experience with Laravel and Vue.js.
+
+I have been serving as a full-stack developer for more than 6 years and used several leading softwares in this industry.
+I have used various Laravel & Vue.js frameworks and I am extremely familiar with them such as Vuex, Nuxt,Javascript, Typescript TailwindCSS, Vuetify, Bootstrap, Material UI,jQuery,blade, styled-component and more..
+
+As I am a veteran in front-end developing, so I strongly believe that I could fill the role.
+Very familiar with Vue.js.
+
+If you could give me more brief information about the project such as
+
+I would like to have more discussion about your project.
+it would be highly appreciated !
+
+Look forward to your response.
+Regards.
+
+------------------
+
+---python----
+Hi,
+I am sure I am the person you are looking for.
+As a python expert, I have a lot of experience in web scrapping. Web scraping is one of my major skills, and it would help your idea is achieved with good results.
+I have developed various kinds of python projects for more than 8 years. Besides web scrapping, pycv, pyqt, deep learning, Django, and flask, which are based on python are my experienced aspects.
+I think your idea is good as well as hope we would have a good relationship through this proposal.
+If you have any questions, please ping me. I am looking forward to talking with you.
+I want to know your idea in more detail as soon as possible.
+Thank you.
+Best regards.
+
+Hi,
+Thank you for your proposal.
+I have read your proposal carefully and I am eager to work with your idea.
+
+As for python, I have been working on it for more than 8 years. As you may know, there are many applications based on Python such as pyqt, pycv, and deep learning. I have a lot of experience in these fields.
+Nowadays, Python is also applied to Web development. My major skills for web projects are Blockchain, Django, Flask, and Web scrapping.
+The most important things I am focused on are credit and integrity. I think we would have a wonderful experience with a good impression and relationship. I am sure I am the person who you are looking for.
+I hope we could have a chat as soon as possible. I want to know your idea in more detail.
+Best regards.
+
+-------wordpress------
+
+Hi!
+This is Volodymyr from Ukraine.
+
+I have been working as a professional WordPress developer and in other related sectors for about 6 long years. Among thousands of specialists in this sector, what differs me from others is my problem solving methods.
+
+My uniqueness in creativity and transparency in my work brings positive sights about me to my clients. All of my clients never remained unsatisfied with my works. Being an expert in PHP, CSS or HTML and WordPress I annex adequate knowledge in maintain websites.
+
+Furthermore, my efficiency in monitoring, supervising and working as a team player in a project is quite impressive. I have also control over using J Query and PSD2HTML and UI and UX designing, act as the additives in convincing the clients. For me hard work is a must even when someone possesses all desired skills and I never show procrastination in it.
+
+Also I have finished wordpress project recently.
+So, if you think I am capable enough then hire me and let me serve you the best version of me.
+
+Thank you.
+-------------------
+Hi, Thanks for nice client.
+I have read your job description and I totally make sense.
+
+As you can see in my profile I am veteran of front-end developing and I have used Laravel framework to developed  websites.
+I have experienced in Laravel+Vue.js and Laravel+React.js so I am familiar with Laravel framework.
+
+My strong aspects are front-end developing which means I have built hundreds of figma in to reusable components which are responsive and compatible in variuos kinds of browsers and devices.
+
+In the mean time I have became css and javascript expert.
+As you know most of the frameworks are based on javascript and css so I  experiments are really good for developing.
+As a veteran front-end engineer I hope to work with you very much.
+And I can work by your time immediately.
+I am waiting for your response.
+Best regards.
+-------------------
